@@ -16,7 +16,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-🔐 OpenAI API Key
+## 🔐 OpenAI API Key
 To use this app, you need a free OpenAI API key.
 Get it here: https://platform.openai.com/account/api-keys
 
