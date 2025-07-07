@@ -31,7 +31,7 @@ Edit
 Write a short, professional 'About Me' section for a CV based on:
 - Role: {user input}
 - Skills: {user input}
-- Interests: {user input}
+- Interests: {user input} 
 
 
 📂 File Structure
